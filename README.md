@@ -4,7 +4,7 @@ Hey, soy Manuel Fuentes, desarrollador FullStack.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelfpugr&layout=donut&theme=dark)](https://github.com/manuelfpugr)
 
-[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=manuelfpugr)](https://github.com/manuelfpugr)
+
 
 <!---
 manuelfpugr/manuelfpugr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
